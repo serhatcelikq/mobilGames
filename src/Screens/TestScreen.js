@@ -17,15 +17,7 @@ import {getDatabase, ref, get} from 'firebase/database';
 import {initializeApp} from 'firebase/app';
 
 // Firebase config (in case it's needed directly)
-const firebaseConfig = {
-  apiKey: 'AIzaSyAjG2vuMDwxFB7gNHnId0e2HZo6bL1Ar2s',
-  authDomain: 'webandmobilproject.firebaseapp.com',
-  projectId: 'webandmobilproject',
-  storageBucket: 'webandmobilproject.appspot.com',
-  messagingSenderId: '958510699765',
-  appId: '1:958510699765:android:3ca76a3564d7a305fae1bc',
-  databaseURL: 'https://webandmobilproject-default-rtdb.firebaseio.com',
-};
+
 
 // Initialize Firebase if not already initialized
 let app;
