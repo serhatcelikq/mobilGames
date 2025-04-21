@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958510699765",
+    "project_id": "webandmobilproject",
+    "storage_bucket": "webandmobilproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958510699765:android:3ca76a3564d7a305fae1bc",
+        "android_client_info": {
+          "package_name": "com.autoconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958510699765-f9cv9ddcb5d77p1d8h0hv2o8686jsu1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autoconnect",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "958510699765-0peh74qe9lu6d8282nam71gbrv1mq3gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjG2vuMDwxFB7gNHnId0e2HZo6bL1Ar2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958510699765-0peh74qe9lu6d8282nam71gbrv1mq3gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
